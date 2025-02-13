@@ -1,0 +1,6 @@
+Json file is loaded if it doesnt exist it is created
+Objects from file are loaded in a list
+While loop starts and options are given to user until he exits
+The options act upon the objects in the list
+When the user exits the list is saved to the json file
+
